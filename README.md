@@ -24,7 +24,7 @@ Built on top of [Pedram Amini's rocky_say gist](https://gist.github.com/pedramam
 └── README.md
 ```
 
-The voice reference `rocky_training_audio_scrubbed.wav` and downloaded TTS model weights (~2 GB) are **not** committed — you download them during setup.
+The voice reference `rocky_training_audio_scrubbed.wav` (22 MB) is committed so the repo works out of the box. Downloaded TTS model weights (~2 GB) are **not** — they cache into `./tts_cache/` on first run.
 
 ---
 
@@ -112,16 +112,14 @@ python3.11 -m venv venv
 
 This pulls ~2 GB of PyTorch wheels. Grab a coffee.
 
-### 3. Download Rocky's voice reference (22 MB)
+### 3. Rocky's voice reference
 
-The reference audio is hosted by Pedram (original author of the gist this pack builds on):
+The reference audio `rocky_training_audio_scrubbed.wav` (22 MB) ships in the repo root, right next to `rocky_say` and `generate_pack.py` — no download needed. If it ever goes missing, you can re-fetch Pedram's original:
 
 ```bash
 curl -L -o rocky_training_audio_scrubbed.wav \
   https://pedramamini.com/dropbox/rocky_training_audio_scrubbed.wav
 ```
-
-It must live in the repo root next to `rocky_say` — `generate_pack.py` expects it there.
 
 ### 4. Make rocky_say executable
 

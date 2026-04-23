@@ -7,9 +7,6 @@ __pycache__/
 # TTS model weights (large, downloaded on first run)
 tts_cache/
 
-# Voice reference (22MB, download separately per README)
-rocky_training_audio_scrubbed.wav
-
 # Runtime artifacts
 rocky_server.log
 .rocky_server.pid
