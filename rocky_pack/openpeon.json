@@ -5,8 +5,8 @@
   "version": "1.0.0",
   "description": "Rocky the Eridian from Project Hail Mary, synthesized via YourTTS voice cloning. Dropped articles, triple-word emphasis, and the signature 'question?' suffix. Fist bump means thumbs up. Brave brave means dumb.",
   "author": {
-    "name": "akshat",
-    "github": "Akshat1903"
+    "name": "fox",
+    "github": "fox"
   },
   "license": "CC-BY-NC-4.0",
   "language": "en",
@@ -16,42 +16,42 @@
         {
           "file": "sounds/ReadyWork.wav",
           "label": "Rocky here, ready work",
-          "sha256": "75c3222f8fd8b83c6fa15c8d722fdbcafd4bc1a7bb5d9c8af6c121c3a59ef2c3"
+          "sha256": "09170a5d298b41fd4d8279e10e5984a233140fd983444dea082161b62b2c3c8f"
         },
         {
           "file": "sounds/HelloFriend.wav",
           "label": "Hello friend, fist bump",
-          "sha256": "eed0ab183749d3e8668b4e47e36b2bb335e2019e10c2c7595293d33165e888f6"
+          "sha256": "09a73e6d124a05f6bd8350305338297a498182dfdf3ba91315e4191780d9a0d7"
         },
         {
           "file": "sounds/GoodMorning.wav",
           "label": "Good morning",
-          "sha256": "2b54a53831e50a961471ef544ee1a8a6fb514cd499b8431b3fc16d3f66511712"
+          "sha256": "d42910c54ae7234562dea4557d0ed1b6d664291797a80a6dfaaf2947e69a74dd"
         },
         {
           "file": "sounds/AwakeAwake.wav",
           "label": "Rocky awake, what we build",
-          "sha256": "f2b05d866fd8fbee1c4cfe2d419b1122e777b8819192e02ae3495c066ed9fbdd"
+          "sha256": "2ef9d55ee13b1252f3c16096c5a25070f931dcd3d7e462cfb40bf3c4157d239f"
         },
         {
           "file": "sounds/NewDay.wav",
           "label": "New day, new code",
-          "sha256": "d19ab72dfed78946b24d1bcb26d8826e3ba6eaa99cc8db4e8b2de0c124848c43"
+          "sha256": "78040ccbd86f833b97fa5b91b5502b96bebb055c329d720151714de005580556"
         },
         {
           "file": "sounds/RockyArrive.wav",
           "label": "Rocky arrive",
-          "sha256": "2a912349e87eb6ac544e4937a965b9696a0a86b5b99101b8b2b70817937616ca"
+          "sha256": "1a44142b31578b883fbd3875504fd71e5d6cff86fd4acfe2534a6e9c12ee495c"
         },
         {
           "file": "sounds/BrainHere.wav",
           "label": "Rocky bring brain",
-          "sha256": "ab822f9ac173950b7ee7cc0b55ed7c580f1407b7a6b8aaec3e620f4f0e4a52c0"
+          "sha256": "20945176a76d409f858cb47737e39b6142e5c31f8974fd2a1b3451f2f80e7cf6"
         },
         {
           "file": "sounds/ScienceTime.wav",
           "label": "Science time",
-          "sha256": "06960c4f78ba64679c1f805ee4cd2ab8e9f3b4d147f4758ad691d9507bc0a5f5"
+          "sha256": "2a1d287e4267e5aa0b1da1bb1ef60d5fad3d1882cc14fa18d6d8482c1dca9344"
         }
       ]
     },
@@ -60,42 +60,42 @@
         {
           "file": "sounds/Understand.wav",
           "label": "Understand",
-          "sha256": "91320712be307705b73bf9de675f5d7e37025d64419d8563be4a6735690d530e"
+          "sha256": "ddef1302f39d5ec59512ab3768176eca965276907e6278c1cf868978078a6e22"
         },
         {
           "file": "sounds/GotItFistBump.wav",
           "label": "Rocky got it, fist bump",
-          "sha256": "d580b867cc9b1f33d4c4540c47a00c2474a0f6f44cbebb8937133b13b4e3cb92"
+          "sha256": "b0b54577d1dd320be142ca37713a0cda711b1901b899bc174a0bc1d14a0c056d"
         },
         {
           "file": "sounds/YesYesYes.wav",
           "label": "Yes yes yes, Rocky do",
-          "sha256": "7a500d9ed02a88841c7c7bdcd44fa0dcf2363aab3599e8c9a201813d2e2f2151"
+          "sha256": "8a9cc64ca612820baa16f30c8b62bccef94179e69eb5f03de9e92502f7c14865"
         },
         {
           "file": "sounds/GoodIdea.wav",
           "label": "Good idea",
-          "sha256": "3837fd1d7c29bf002ebfe2837c589303a1cfedd84ef73ddf352795c5eebe92dc"
+          "sha256": "3c3c09b022385089bf01a1036178fc7fcb9a6bc55625a81e7c21d00dfaeedcc4"
         },
         {
           "file": "sounds/RockyListen.wav",
           "label": "Rocky listen, work now",
-          "sha256": "48c4570691ec5dfeae492436479c77766ff4921c67e6e3565107dda578d874bc"
+          "sha256": "c4c45c3c575f02d44a3324bc277bc97b4841822ced6b00de6d4590a97eecc15d"
         },
         {
           "file": "sounds/OkayOnIt.wav",
           "label": "Okay, on it",
-          "sha256": "1cd599a6bd5a1e94eb8493e414770bd27671698472b8fa439662104fc2194c76"
+          "sha256": "3721bd96aa8b8f8e45cdd578f101afd2030f050fb51f944e19497776564364e1"
         },
         {
           "file": "sounds/KnowWhatDo.wav",
           "label": "Rocky know what to do",
-          "sha256": "3cd09e95432e07459f0301437b8bcb13903712586404be285be0b598ac87ae47"
+          "sha256": "c41a1ac9bcb22c9f9788e6974990aa5dc28d00374609cd09426fb5c95d4c59a1"
         },
         {
           "file": "sounds/FistBumpUnderstand.wav",
           "label": "Fist bump, Rocky understand",
-          "sha256": "7de7c6c9d51575f67f9cf9388f36fa5d31502378f110c36eeff46ed354d57d46"
+          "sha256": "196854d8280952daf1bdff8bafd9cc6256d5ab4be4ec9c6f79bd740fbc8bd7c5"
         }
       ]
     },
@@ -104,47 +104,47 @@
         {
           "file": "sounds/DoneFistBump.wav",
           "label": "Done, fist bump",
-          "sha256": "314181c6f62d7913617ea3c1d5757f6f84b1c25e134911dd65a65d6934201adc"
+          "sha256": "28f911a307965771f9192ca0f47ed73325fc24ff9779972c400139436226a491"
         },
         {
           "file": "sounds/HappyFinish.wav",
           "label": "Finish, Rocky happy",
-          "sha256": "30b4b9e00e9d9ae7f815be43a201d2a2ff547e4b8a30cbcba087e1b4bcca03be"
+          "sha256": "3b5d70ac8faad3b0e0519e6ae5414bf1231c6f2d5f2730344b31aeb415ebef6c"
         },
         {
           "file": "sounds/GoodEngineer.wav",
           "label": "Rocky good engineer",
-          "sha256": "c9a6ba8fe742951d5f7d03db37ca0920a3b18941b769eb80692fe495764369f0"
+          "sha256": "4c7563f30a7dad5c793260c87e76519d2d0d0893fb1eb650ea6014e5ec76a546"
         },
         {
           "file": "sounds/TaskDone.wav",
           "label": "Task done, good",
-          "sha256": "0068719f2a91f950085a8006753eaa8d49960f4e120cbb5be0a1d2095c699a70"
+          "sha256": "d248fba4d7e3169c22e82e1e80221b80e287bd9fb2f406e9b0a4e6d15096c2a0"
         },
         {
           "file": "sounds/FistBumpFriend.wav",
           "label": "Fist bump friend",
-          "sha256": "99bc6feb7b4062c8cda4c85cb2d3978c1689feea6f35cab0cbfa90f43e2a9aa3"
+          "sha256": "829ae68e01b5ea8b999a6adabf0f2e542514f2e9620220071b8d19f0cdeb2d29"
         },
         {
           "file": "sounds/RockyProud.wav",
           "label": "Rocky proud",
-          "sha256": "31daa8b84c1596a29c07f02224b4198f34df9f3e689be2df8c63204a13f76fc6"
+          "sha256": "83b4a2bc3a88f6b49a45961796151142e2f369014873d610abcb0ef9a5ee4754"
         },
         {
           "file": "sounds/AmazeWork.wav",
           "label": "Amaze, Rocky make it work",
-          "sha256": "959ebcfdff22e51a7e1615f2bf4262fa2c04a481ac36c5d3c08785d4f63ad0dd"
+          "sha256": "b335bbb98bd507c1d562eda65304a3fabb01418a3e37b5fb45be02bed7695b54"
         },
         {
           "file": "sounds/CodeGood.wav",
           "label": "Code good, Rocky solve",
-          "sha256": "a3f5055c8675d3354e551ef005cdc06fb956e529f39c7125bc8ae2dd4b03caa4"
+          "sha256": "acc8bd55ba45b1729b497aa57255b73d74ed2e4a3db043a54e3d4711edeb4b06"
         },
         {
           "file": "sounds/EasyEasy.wav",
           "label": "Easy easy, fist bump",
-          "sha256": "31e1fe31c2dcdcebfa7467d0a726374077cff8f7fb4920ce82758a38c86332b9"
+          "sha256": "37847a5d17e508ddbdd8bf77cee479d36c0ebdab984a3a853a31fbc1ce626877"
         }
       ]
     },
@@ -153,42 +153,42 @@
         {
           "file": "sounds/BadBadBad.wav",
           "label": "Bad, Rocky sorry",
-          "sha256": "f067de5b9caee8277feaae72019c39333800c39f604451a0e74c5639d7611882"
+          "sha256": "f29e84358f60c8ecd2fbfd98457d2926bc7be6fe0a0d2e5e8eeaa1796807aa03"
         },
         {
           "file": "sounds/NoWork.wav",
           "label": "Something break",
-          "sha256": "3618e40e7271fb3e29e261f91c470bed21219cb9ebe6a533fe9fbfe2c38210e8"
+          "sha256": "736977cf0a832760d0a7aaddbb9c1653792215f455db008db4e52d165a5c2bf7"
         },
         {
           "file": "sounds/Confuse.wav",
           "label": "Rocky confuse",
-          "sha256": "57e96834c93cf1c3439480a6e236b90df6d77c4894de5beb47bc0d3ba89fb46a"
+          "sha256": "c487c1ac8e849881dd6e2f2aa103865c924e1cde177e5a08ad9912e3c91c8319"
         },
         {
           "file": "sounds/ProblemNoUnderstand.wav",
           "label": "Rocky no understand",
-          "sha256": "e96df9cb50999ad428f49b81aa9d546c9300e506591d873fc7f6ab08858f946b"
+          "sha256": "32c03097ee71885a1a05ec8f48bf98c53ec7997e363c51fa1cfb54d01b06ae1b"
         },
         {
           "file": "sounds/SadSadSad.wav",
           "label": "Sad, Rocky try again",
-          "sha256": "7fc42ff2b816a5f4965fb4e7deabeb64ef670b20bc811292ce6c2f5c2ba495c2"
+          "sha256": "a6f1b1b2235fa9930024c506ef057fef59e387045a3fc10f391e252e58dcc786"
         },
         {
           "file": "sounds/RockyFail.wav",
           "label": "Rocky fail, you help",
-          "sha256": "1a7ed1253bc0778fb8e76daf9894348b930b00e26cf63a6755e293bb53f37a93"
+          "sha256": "b79b0ad4af38ca323c5d3efd356c0a150cfcee35d6212310c065917889fa8679"
         },
         {
           "file": "sounds/ErrorNoLike.wav",
           "label": "Error, Rocky no like",
-          "sha256": "31bbab91ec1a1dc0e915d2f092701909ffeb892031ac1ce52170106bae99130d"
+          "sha256": "30d153a286fb24c083899dde7f47f585f3b7631993bbd1bfeaee6ea5dbc48fcc"
         },
         {
           "file": "sounds/TaskHard.wav",
           "label": "Task hard, Rocky stuck",
-          "sha256": "fbe07195b347cb0ea9c7ec31da2bbce949c62b06c02b59070068c9b0f073587a"
+          "sha256": "8b35394b51bbc2808f8af804cf796beb201ba6e9064fae39b9326bd5166ebcad"
         }
       ]
     },
@@ -197,42 +197,42 @@
         {
           "file": "sounds/NeedYou.wav",
           "label": "Rocky need you",
-          "sha256": "6ae38585ec34e282b49da6d0f8d4a076a364bbb6e69bb5044b9785c04c670c43"
+          "sha256": "d11510b490f06edeaf5cde7789475fcf73f48349ae1f57bb4508917a02f7f816"
         },
         {
           "file": "sounds/WhatDo.wav",
           "label": "What do, Rocky wait",
-          "sha256": "1882f3d2ee148812d1e83ae6937065789eb9a35d73cf1b71c8850a0caeb62498"
+          "sha256": "53869fe52ebd758725a5548c22f5312f17a36d32844fb203b8d1dadac49f2717"
         },
         {
           "file": "sounds/YouThere.wav",
           "label": "You there",
-          "sha256": "b74d4b79e023e2ef764a13dd05fba5e839deba71d59798666b0b470d00c25201"
+          "sha256": "bcc3bab021ab5e08786c32fbf713287ed4feaf3d82bf326fffc8cfa7a7088300"
         },
         {
           "file": "sounds/RockyStuck.wav",
           "label": "Rocky stuck, need human",
-          "sha256": "f25255d339ceb5815b3366f53f3fc1a7f6623a07222d3e4777e924f0596842e1"
+          "sha256": "e6366a6b7fb783a774601fff644348c48a4f0ef9a47bd13741947df4b0cbe08c"
         },
         {
           "file": "sounds/HelpWait.wav",
           "label": "Help, Rocky wait",
-          "sha256": "dd1430d85ca09ced914610944ef1be8ff1f3deb7bd08fdaccff2634224229de6"
+          "sha256": "8087232bd3a1e2426f6c9fec4724bf171c438d6a72acd297f59f9325999f7367"
         },
         {
           "file": "sounds/QuestionForFriend.wav",
           "label": "Question for friend",
-          "sha256": "c47b633c0dcf04c76c33fc9b1b7ff8acfe62584f5103b49362cd7db5924838fb"
+          "sha256": "dc1f7a61855a511236dec47af88721e4836f6baced59da2b0247a4fa7ba9b413"
         },
         {
           "file": "sounds/NeedAnswer.wav",
           "label": "Rocky need answer",
-          "sha256": "daba7d51c80cf96d61cefc2a81e669f3192ee99e1ea40dfa9c8089e6968aaabf"
+          "sha256": "c19bf0b76423cd1e503cf64f85e39460132cc90259f95a2529008fb18e4f42e6"
         },
         {
           "file": "sounds/ComeBack.wav",
           "label": "Come back, Rocky bored",
-          "sha256": "194721250d563ffead0af63d61104b9c63ab88363748020e888c30d2570443d5"
+          "sha256": "8d652c536786240bd6ec60056aa6f5b8a7fd40ccf2a860bb184c68f2e99b080c"
         }
       ]
     },
@@ -241,47 +241,47 @@
         {
           "file": "sounds/TooManyClick.wav",
           "label": "Too many click",
-          "sha256": "36016fc67a7e2a3a48e28ca98bf43ef354eb89dd062fb14f18ea032bb3df63c3"
+          "sha256": "4372f4bebe24b073ee7381fb13173f10846ccf3308ddf3f6053f4dd242515e61"
         },
         {
           "file": "sounds/RockyBusy.wav",
           "label": "Rocky busy, you brave brave",
-          "sha256": "3f62a4c25ce9bd7cb69df4da7e1a8033363f35182fe34a9ec3b21a28a83bf77d"
+          "sha256": "29b774ef43c3b3a7034ec598ecc5b36839c64dff76d8aaaf4bcbd7ea3a732bee"
         },
         {
           "file": "sounds/StopStopStop.wav",
           "label": "Stop, Rocky working",
-          "sha256": "78399ae9c472785f23470812b3d05679686671396e5f6773e23e19f33e029724"
+          "sha256": "174990b88b84937e81a937cf622b5f3d8272d228e4eb007e248c445e2bec413a"
         },
         {
           "file": "sounds/HumanBrave.wav",
           "label": "Human brave brave, patience",
-          "sha256": "9794d37b742906c2c5a57f17d31eab21cc109408eeae7d4de099d2dea3483bf7"
+          "sha256": "48f2ff0d591778914db69eda377c17717c5c9553648ae88036fb83ad6fc29a28"
         },
         {
           "file": "sounds/WhyYouDoThis.wav",
           "label": "Why you do this, Rocky sad",
-          "sha256": "4a548b9f8bc4b9fbc0167bf995d121ea4370a591b0540aa852e12a9c7ed14564"
+          "sha256": "9c8418101db392ccec4ed66b37c5ad82fa8a0fef41b310b4203aaa79dceac733"
         },
         {
           "file": "sounds/VeryBrave.wav",
           "label": "You brave brave",
-          "sha256": "477c3f36ed1affe0a935104ce52c038bb9ec509a2df596f0a8f3f681abe44703"
+          "sha256": "4145f36fa000f42f2407ee52b7006dd967ef0d210030ef3e12e9841b7f85dffe"
         },
         {
           "file": "sounds/NotFastButton.wav",
           "label": "Rocky not fast button",
-          "sha256": "eb53db923f432b88dd5c6e1da65e6c35e49ec5cae40c776c4ff0fc5fc17eadf0"
+          "sha256": "ca99f2d942483d7e86610e8ef1fa3b5ab438bf14850861be7871ed770be06638"
         },
         {
           "file": "sounds/HaImpatient.wav",
           "label": "Human impatient, brave brave",
-          "sha256": "7acf141418027057c4f8817feaf715a6731aeaa2853cac9dbc84de1feec109c4"
+          "sha256": "f53c6d88c9a08c1b9c1ab8616af24da876b5f71992931adf88bf061978ad357f"
         },
         {
           "file": "sounds/CountClick.wav",
           "label": "Rocky count click",
-          "sha256": "aa334f8139d0e1d3eeca4d3b9bea685c561dbffabe2e74c3e7850faeb0d27b88"
+          "sha256": "e3c1c194bc8d49f47f92ddc6273b5052aab49965c2dbb80171866f3a0e679ef1"
         }
       ]
     }

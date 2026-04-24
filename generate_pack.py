@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """One-shot generator for the Rocky peon-ping pack.
 
-Loads YourTTS once, synthesizes all clips, applies 1.2x speed via ffmpeg.
+Loads YourTTS once, synthesizes all clips, applies 1.1x speed via ffmpeg.
 Output: rocky_pack/sounds/*.wav
 """
 import hashlib
@@ -16,11 +16,14 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 os.environ["TTS_HOME"] = os.path.join(ROOT, "tts_cache")
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["COQUI_TOS_AGREED"] = "1"
+
+MODEL = "tts_models/multilingual/multi-dataset/your_tts"
 
 REFERENCE = os.path.join(ROOT, "rocky_training_audio_scrubbed.wav")
 PACK_DIR = os.path.join(ROOT, "rocky_pack")
 SOUNDS_DIR = os.path.join(PACK_DIR, "sounds")
-SPEED = 1.3
+SPEED = 1.1
 
 # (filename, category, text, label)
 CLIPS = [
@@ -104,10 +107,10 @@ def apply_speed(in_path, out_path, speed):
 
 
 def main():
-    print(f"Loading YourTTS (model cache: {os.environ['TTS_HOME']})...", flush=True)
+    print(f"Loading {MODEL} (model cache: {os.environ['TTS_HOME']})...", flush=True)
     t0 = time.time()
     from TTS.api import TTS
-    tts = TTS("tts_models/multilingual/multi-dataset/your_tts")
+    tts = TTS(MODEL)
     print(f"Model loaded in {time.time()-t0:.1f}s", flush=True)
 
     total = len(CLIPS)

@@ -15,3 +15,6 @@ hello.wav
 
 # macOS noise
 .DS_Store
+
+# Local TTS experiments (large wav output)
+experiments/
