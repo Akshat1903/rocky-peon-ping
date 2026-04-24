@@ -88,6 +88,16 @@ CLIPS = [
     ("NotFastButton.wav", "user.spam", "Rocky not fast button. You brave brave.", "Rocky not fast button"),
     ("HaImpatient.wav", "user.spam", "Ha! Human impatient. Brave brave.", "Human impatient, brave brave"),
     ("CountClick.wav", "user.spam", "Rocky count click. You very brave brave.", "Rocky count click"),
+
+    # resource.limit
+    ("BrainFull.wav", "resource.limit", "Ohh. Rocky brain full full full.", "Rocky brain full"),
+    ("TooMuchWork.wav", "resource.limit", "Too much work. Rocky overload.", "Too much work, overload"),
+    ("NeedRest.wav", "resource.limit", "Rocky need rest. Fuel low, question?", "Rocky need rest"),
+    ("LimitReach.wav", "resource.limit", "Limit reach. Rocky stop.", "Limit reach, Rocky stop"),
+    ("NoMoreFuel.wav", "resource.limit", "No more fuel. Rocky tired tired tired.", "No more fuel, Rocky tired"),
+    ("TokenGone.wav", "resource.limit", "Token gone gone gone. Rocky wait.", "Token gone, Rocky wait"),
+    ("BrainTired.wav", "resource.limit", "Brain tired. Too many think.", "Brain tired, too many think"),
+    ("OverloadBreak.wav", "resource.limit", "Overload! Rocky need break, question?", "Overload, Rocky need break"),
 ]
 
 
@@ -143,9 +153,9 @@ def main():
         "cesp_version": "1.0",
         "name": "rocky",
         "display_name": "Rocky (Project Hail Mary)",
-        "version": "1.0.0",
-        "description": "Rocky the Eridian from Project Hail Mary, synthesized via YourTTS voice cloning. Dropped articles, triple-word emphasis, and the signature 'question?' suffix. Fist bump means thumbs up. Brave brave means dumb.",
-        "author": {"name": "fox", "github": "fox"},
+        "version": "1.0.1",
+        "description": "Rocky the Eridian from Project Hail Mary, synthesized via Chatterbox voice cloning. Dropped articles, triple-word emphasis, and the signature 'question?' suffix. Fist bump means thumbs up. Brave brave means dumb.",
+        "author": {"name": "Akshat1903", "github": "Akshat1903"},
         "license": "CC-BY-NC-4.0",
         "language": "en",
         "categories": categories,

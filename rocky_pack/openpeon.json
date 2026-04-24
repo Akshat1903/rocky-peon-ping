@@ -2,10 +2,10 @@
   "cesp_version": "1.0",
   "name": "rocky",
   "display_name": "Rocky (Project Hail Mary)",
-  "version": "1.0.0",
-  "description": "Rocky the Eridian from Project Hail Mary. Dropped articles, triple-word emphasis, and the signature 'question?' suffix. Fist bump means thumbs up. Brave brave means dumb.",
+  "version": "1.0.1",
+  "description": "Rocky the Eridian from Project Hail Mary, synthesized via Chatterbox voice cloning. Dropped articles, triple-word emphasis, and the signature 'question?' suffix. Fist bump means thumbs up. Brave brave means dumb.",
   "author": {
-    "name": "akshat",
+    "name": "Akshat1903",
     "github": "Akshat1903"
   },
   "license": "CC-BY-NC-4.0",
@@ -282,6 +282,50 @@
           "file": "sounds/CountClick.wav",
           "label": "Rocky count click",
           "sha256": "e3c1c194bc8d49f47f92ddc6273b5052aab49965c2dbb80171866f3a0e679ef1"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/BrainFull.wav",
+          "label": "Rocky brain full",
+          "sha256": "ebd4e1b883c324233be49f2a280b10256f1bbbb936976337735c5206f27e30f2"
+        },
+        {
+          "file": "sounds/TooMuchWork.wav",
+          "label": "Too much work, overload",
+          "sha256": "9f662e7f19ff3cbb75ba204d4b60f4a44f43576c1cafde954957dfe9537ee6a3"
+        },
+        {
+          "file": "sounds/NeedRest.wav",
+          "label": "Rocky need rest",
+          "sha256": "2987d24b30cb09a02a67d8cae577d3427fafa7d6d9ff675739d97b04ffa0cbd1"
+        },
+        {
+          "file": "sounds/LimitReach.wav",
+          "label": "Limit reach, Rocky stop",
+          "sha256": "43534da875ab5c2fe485428f6e3d50c1975f0ca2f972ecd5ce145cd04b5402fe"
+        },
+        {
+          "file": "sounds/NoMoreFuel.wav",
+          "label": "No more fuel, Rocky tired",
+          "sha256": "bfd67c4cb8e51ff543576e6fe8ab99170db7eedd7b82bd849968459172cee807"
+        },
+        {
+          "file": "sounds/TokenGone.wav",
+          "label": "Token gone, Rocky wait",
+          "sha256": "564ac8f75ba79a629717860339cef0d86e91e463c4147121531c53586daf4b7d"
+        },
+        {
+          "file": "sounds/BrainTired.wav",
+          "label": "Brain tired, too many think",
+          "sha256": "8571e340008bd98a9ce94bbbf74bbee9c7ecf7368f058026637ffed6a1622a9d"
+        },
+        {
+          "file": "sounds/OverloadBreak.wav",
+          "label": "Overload, Rocky need break",
+          "sha256": "078b7c5cb818b4fea958d2bd8f2dcd6a97326b4801d4f1f54585c9b252dd6aac"
         }
       ]
     }
